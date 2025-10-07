@@ -14,7 +14,7 @@
 - Protects against referrer-based tracking
 
 ### 3. **Clipboard Security**
-- Automatically clears clipboard after 60 seconds
+- Automatically clears clipboard after 15 seconds
 - Prevents passwords from lingering in clipboard memory
 - Reduces risk of accidental password exposure
 
